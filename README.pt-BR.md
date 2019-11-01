@@ -7,4 +7,5 @@
 1. Dar uma sugestão de melhoria vale mais do que apenas apontar erros.
 1. Seja dono do código que você está revisando. Você também é dono, não apenas quem o desenvolveu!
 1. Encare a revisão de código como um momento de aprender.
+1. Embase suas afirmações em boas práticas da linguagem e/ou da comunidade.
 
