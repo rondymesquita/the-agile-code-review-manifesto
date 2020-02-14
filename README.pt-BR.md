@@ -8,4 +8,6 @@
 1. Seja dono do código que você está revisando. Você também é dono, não apenas quem o desenvolveu!
 1. Encare a revisão de código como um momento de aprender. Seja o código desenvolvido por você ou não.
 1. Embase suas afirmações em boas práticas da linguagem e/ou da comunidade.
+1. Comunique-se com seu time. Entender o código em conjunto com seu time é mais importante do que suposições.
+1. Desapegue-se do código desenvolvido por você. O código está em constante evolução! E você também deve estar.
 
