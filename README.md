@@ -9,5 +9,5 @@ It is based on Agile Manifesto along with my experience as software developer on
 The described practices here are not rules and represents particular a point o view as a opinion of how to approach
 the code review activity. Some practices might work or not for you situation. Consider to adapt accondingly with you needs.
 
-[🇧🇷 pt-BR](README.pt-BR.md)
-[🇺🇸 en-US](README.en-US.md)
+- [🇧🇷 pt-BR](README.pt-BR.md)
+- [🇺🇸 en-US](README.en-US.md)
