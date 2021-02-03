@@ -6,7 +6,7 @@ keep people close and working together as a team.
 
 It is based on Agile Manifesto along with my experience as software developer on agile teams.
 
-The described practices here are not rules and represents particular a point o view as a opinion of how to approach
+The described practices here are not rules and represents a particular point o view as a opinion of how to approach
 the code review activity. Some practices might work or not for you situation. Consider to adapt accondingly with you needs.
 
 - [🇧🇷 pt-BR](README.pt-BR.md)
