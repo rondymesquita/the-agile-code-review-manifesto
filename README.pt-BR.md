@@ -1,6 +1,3 @@
----
-home: false
----
 # O Manifesto da Revisão de Código Ágil
 
 ## Introdução
