@@ -21,6 +21,14 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
 }
 
+.page {
+  padding-left: 0 !important;
+}
+
+aside.sidebar {
+  display: none !important;
+}
+
 // .search-box
 //   input
 //     background-color: $bodyBgColor !important

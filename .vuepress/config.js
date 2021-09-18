@@ -18,7 +18,7 @@ module.exports = {
   },
   theme: path.resolve(__dirname, './theme'),
   themeConfig: {
-    sidebar: false,
+    sidebar: [],
     // sidebar: [
     //   {
     //     text: '🇧🇷 pt-BR',

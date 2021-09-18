@@ -1,3 +1,6 @@
+---
+home: false
+---
 # The Agile Code Review Manifesto
 
 ## Introduction
