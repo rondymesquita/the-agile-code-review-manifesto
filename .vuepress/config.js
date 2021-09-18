@@ -1,14 +1,17 @@
 const { description } = require('../package')
 const { path } = require('@vuepress/utils')
 
+const base = process.env.NODE_ENV === "development"
+  ? undefined
+  : "/the-agile-code-review-manifesto/"
+
 module.exports = {
-  base: "/the-agile-code-review-manifesto/",
+  base,
   theme: path.resolve(__dirname, './theme'),
   themeConfig: {
-    sidebar: false,
+    sidebar: true,
     repo: "https://github.com/rondymesquita/the-agile-code-review-manifesto",
     navbar: [
-      // NavbarItem
       {
         text: 'Author',
         link: 'https://github.com/rondymesquita/',

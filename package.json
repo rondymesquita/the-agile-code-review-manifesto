@@ -6,13 +6,17 @@
   "dependencies": {},
   "devDependencies": {
     "@vuepress/bundler-vite": "^2.0.0-beta.26",
+    "cross-env": "^7.0.3",
     "html-loader": "^2.1.2",
     "markdown-loader": "^6.0.0",
+    "static-server": "^2.2.1",
     "vuepress": "^2.0.0-beta.26"
   },
   "scripts": {
-    "dev": "vuepress dev . --no-watch true",
-    "build": "vuepress build ."
+    "dev": "cross-env NODE_ENV=development vuepress dev . --temp .vuepress/.temp",
+    "build": "cross-env NODE_ENV=production vuepress build .",
+    "build:dev": "cross-env NODE_ENV=development vuepress build .",
+    "serve": "static-server .vuepress/dist --cors=*"
   },
   "repository": {
     "type": "git",
