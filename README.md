@@ -3,7 +3,7 @@
 ## Introduction
 
 This manifesto collects 10 practices of how to conduce a code review using an agile approach.
-It seeks to focus on a better analysis in what was developed, to share better understanding of requirements and
+It seeks to focus in what was developed, to share better understanding of requirements and
 keep people close and working together as a team.
 
 It is based on Agile Manifesto along with my experience as software developer on agile teams.
@@ -19,6 +19,6 @@ the code review activity. Some practices might work or not for you situation. Co
 1. Giving a suggestion for improvement is worth more than just pointing out mistakes.
 1. Own the code you are reviewing. You also own it, not just who developed it.
 1. Think of code review as a time to learn. Whether the code was developed by you or not.
-1. Base your statements on good practices of language  and / or community.
+1. Base your statements on good practices of the language and/or the community.
 1. Communicate with your team. Understanding the code together with your team is more important than guessing or making assumptions.
 1. Detach yourself from the code you developed. The code is constantly evolving. And you must be evolving too.
