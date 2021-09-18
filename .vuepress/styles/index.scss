@@ -1,0 +1,26 @@
+// /**
+//  * Custom Styles here.
+//  *
+//  * ref：https://v1.vuepress.vuejs.org/config/#index-styl
+//  */
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+
+body {
+  font-family: Merriweather;
+}
+
+// .home .hero img
+//   max-width 450px!important
+
+body, html, .navbar, .sidebar, div.links {
+  // background-color: red !important
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+}
+
+// .search-box
+//   input
+//     background-color: $bodyBgColor !important
