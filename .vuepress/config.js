@@ -2,6 +2,7 @@ const { description } = require('../package')
 const { path } = require('@vuepress/utils')
 
 module.exports = {
+  base: "/the-agile-code-review-manifesto/",
   bundlerConfig: {
     chainWebpack: function(config, isServer, isBuild){
 
