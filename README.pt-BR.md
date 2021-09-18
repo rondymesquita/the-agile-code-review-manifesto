@@ -3,7 +3,7 @@
 ## Introdução
 
 Esse manifesto coleta 10 práticas de como conduzir a revisão de código usando uma abordagem ágil.
-Ele procura focar em melhor análisar aquilo que foi desenvolvido, compartilhar o entendimento sobre os requisitos e
+Ele procura focar naquilo que foi desenvolvido, em compartilhar o entendimento sobre os requisitos e em
 manter as pessoas próximas e trabalhando juntas como um time.
 
 Esse manifesto é baseado no Manifesto Ágil junto com minha experiencia como desenvolvedor de software em times ágeis.
