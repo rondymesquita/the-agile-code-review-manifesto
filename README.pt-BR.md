@@ -9,7 +9,7 @@ manter as pessoas próximas e trabalhando juntas como um time.
 Esse manifesto é baseado no Manifesto Ágil junto com minha experiencia como desenvolvedor de software em times ágeis.
 
 As práticas descritas aqui não são regras e representam um ponto de vista particular, como uma opinião de como aplicar
-a atividade de revisão de código. Algumas práticas aqui podem ou não funcionar para a sua situação. Considere adotar de acordo com suas necessidades.
+a atividade de revisão de código. Algumas práticas aqui podem ou não funcionar para a sua situação. Considere adaptar de acordo com suas necessidades.
 
 
 ## As Dez Práticas
