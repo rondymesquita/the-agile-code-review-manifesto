@@ -3,6 +3,18 @@ const { path } = require('@vuepress/utils')
 
 module.exports = {
   base: "/the-agile-code-review-manifesto/",
+  theme: path.resolve(__dirname, './theme'),
+  themeConfig: {
+    sidebar: false,
+    repo: "https://github.com/rondymesquita/the-agile-code-review-manifesto",
+    navbar: [
+      // NavbarItem
+      {
+        text: 'Author',
+        link: 'https://github.com/rondymesquita/',
+      }
+    ],
+  },
   bundlerConfig: {
     chainWebpack: function(config, isServer, isBuild){
 
@@ -16,20 +28,6 @@ module.exports = {
           .loader('markdown-loader')
 
     },
-  },
-  theme: path.resolve(__dirname, './theme'),
-  themeConfig: {
-    sidebar: [],
-    // sidebar: [
-    //   {
-    //     text: '🇧🇷 pt-BR',
-    //     link: 'README.pt-BR.md'
-    //   },
-    //   {
-    //     text: '🇺🇸 en-US',
-    //     link: 'README.md'
-    //   }
-    // ],
   },
   // plugins: [
   //   '@vuepress/plugin-back-to-top',

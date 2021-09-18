@@ -1,3 +1,2 @@
-
-- [🇧🇷 pt-BR](README.pt-BR.md)
-- [🇺🇸 en-US](README.md)
+[🇺🇸 en-US](README.md) |
+[🇧🇷 pt-BR](README.pt-BR.md) |
