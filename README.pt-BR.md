@@ -2,6 +2,16 @@
 
 ## Introdução
 
+Esse manifesto coleta 10 práticas de como conduzir a revisão de código usando uma abordagem ágil.
+Ele procura focar em melhor análisar aquilo que foi desenvolvido, compartilhar o entendimento sobre os requisitos e
+manter as pessoas próximas e trabalhando juntas como um time.
+
+Esse manifesto é baseado no Manifesto Ágil junto com minha experiencia como desenvolvedor de software em times ágeis.
+
+As práticas descritas aqui não são regras e representam um ponto de vista particular, como uma opinião de como aplicar
+a atividade de revisão de código. Algumas práticas aqui podem ou não funcionar para a sua situação. Considere adotar de acordo com suas necessidades.
+
+
 ## As Dez Práticas
 
 1. Manter código funcionando é mais importante do que revisar código que não funciona.
