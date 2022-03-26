@@ -4,6 +4,6 @@ module.exports = {
   name: 'vuepress-theme-local',
   extends: '@vuepress/theme-default',
   layouts: {
-    Layout: path.resolve(__dirname, 'layouts/Footer.vue'),
+    Layout: path.resolve(__dirname, 'layouts/Layout.vue'),
   },
 }
