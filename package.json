@@ -1,19 +1,10 @@
 {
   "name": "the-agile-code-review-manifesto",
   "version": "1.0.0",
-  "description": "1. Keep code code working is more important than review a code that does not work\r 1. Use tools to analyze the code for you. This will save you a lot of time (and your team's too).\r 1. Define a code standard (or use an existing one). The team must develop the code following a pattern.\r 1. Don't forget! The code was written by people, not machines.\r 1. Giving a suggestion for improvement is worth more than just pointing out mistakes.\r 1. Own the code you are reviewing. You also own it, not just who developed it!\r 1. Think of code review as a time to learn. Whether the code you developed or not.\r 1. Base your statements on good language and / or community practices.\r 1. Communicate with your team. Understanding the code together with your team is more important than guessing.\r 1. Detach yourself from the code you developed. The code is constantly evolving! And you must be evolving too.",
+  "description": "This manifesto collects 10 practices of how to conduce a code review using an agile approach.\r It seeks to focus on a better analysis in what was developed, to share better understanding of requirements and\r keep people close and working together as a team.",
   "main": "index.js",
-  "dependencies": {},
-  "devDependencies": {
-    "@vuepress/bundler-vite": "^2.0.0-beta.26",
-    "cross-env": "^7.0.3",
-    "html-loader": "^2.1.2",
-    "markdown-loader": "^6.0.0",
-    "static-server": "^2.2.1",
-    "vuepress": "^2.0.0-beta.26"
-  },
   "scripts": {
-    "dev": "cross-env NODE_ENV=development vuepress dev . --temp .vuepress/.temp",
+    "dev": "cross-env NODE_ENV=development vuepress dev .",
     "build": "cross-env NODE_ENV=production vuepress build .",
     "build:dev": "cross-env NODE_ENV=development vuepress build .",
     "serve": "static-server .vuepress/dist --cors=*"
@@ -22,11 +13,15 @@
     "type": "git",
     "url": "git+https://github.com/rondymesquita/the-agile-code-review-manifesto.git"
   },
-  "keywords": [],
-  "author": "",
+  "author": "rondinellimesquitas@gmail.com",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/rondymesquita/the-agile-code-review-manifesto/issues"
   },
-  "homepage": "https://github.com/rondymesquita/the-agile-code-review-manifesto#readme"
+  "homepage": "https://github.com/rondymesquita/the-agile-code-review-manifesto#readme",
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "vite-plugin-md": "^0.12.3",
+    "vuepress": "^2.0.0-beta.36"
+  }
 }
