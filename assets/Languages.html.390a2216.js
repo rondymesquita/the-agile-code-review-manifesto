@@ -1,0 +1,1 @@
+const e={key:"v-213fd8f7",path:"/Languages.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{contributors:[{name:"Rondinelli Mesquita",email:"rondinellimesquitas@gmail.com",commits:1}]},filePathRelative:"Languages.md"};export{e as data};
