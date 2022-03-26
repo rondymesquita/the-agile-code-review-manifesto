@@ -1,2 +1,2 @@
-[🇺🇸 en-US](/) |
-[🇧🇷 pt-BR](README.pt-BR.html) |
+- [🇺🇸 en-US](/the-agile-code-review-manifesto)
+- [🇧🇷 pt-BR](README.pt-BR.html)
