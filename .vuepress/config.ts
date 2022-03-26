@@ -7,7 +7,7 @@ const base =
     : "/the-agile-code-review-manifesto/";
 
 export default {
-  // base,
+  base,
   theme: path.resolve(__dirname, "./theme"),
   themeConfig: {
     lastUpdated: false,
