@@ -1,7 +1,7 @@
 import { path } from "@vuepress/utils";
 import Markdown from "vite-plugin-md";
 
-const base =
+export const base =
   process.env.NODE_ENV === "development"
     ? undefined
     : "/the-agile-code-review-manifesto/";
